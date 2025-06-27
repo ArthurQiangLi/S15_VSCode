@@ -1,5 +1,8 @@
 
 ## Installing `git`
+
+Official link: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+
 ### 1. For `Linux` system
 install git by:
 ```.bash
