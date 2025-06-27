@@ -29,6 +29,9 @@ ssh-keygen -t ed25519 -C "abc@gmail.com"
 3. See the contents of the public key file, copy all and goto your github account.
 ```
 cat ~/.ssh/id_ed25519_arthur.pub
+
+ssh-ed25519 AA12345678oiuytrdesdfghjkiuytrefghjk3rtgfdetyuhgf3456ijhgfdw34WZ2 abc@def.com
+
 ```
 	
 
@@ -49,3 +52,7 @@ ssh -T git@github.com
     Also, you sitll need to set your email and user name when pushing to a repo. <br>
 
 
+## 3. Using ssh
+Use **SSH**, do not clone **HTTPS**.
+
+![choose this clone](image-1.png)
